@@ -1,6 +1,10 @@
+<<<<<<< HEAD
  hello i add in1st lene
 helll
 hell
 hi
 hi
 
+=======
+hellohhhhhhhhhhhhkkk
+>>>>>>> fa3d1fde56dd47d72facdfa2cec9bd5f2d65b6b9
